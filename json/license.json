@@ -1,10 +1,10 @@
 {
  "schemaVersion": 1,
  "label": "License",
- "labelColor": "",
- "message": null,
- "color": "",
- "logoColor": "",
- "namedLogo": "",
+ "labelColor": "black",
+ "message": "CC-BY-ND-4.0",
+ "color": "EF9421",
+ "logoColor": "EF9421",
+ "namedLogo": "creativecommons",
  "style": "plastic"
 }
