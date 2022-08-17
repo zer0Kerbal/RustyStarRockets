@@ -1,14 +1,14 @@
 ﻿# Changelog  
   
-| modName    | RustyStarRockets (RSR)                                        |
-| ---------- | ------------------------------------------------------------- |
-| license    | null                                                          |
-| author     | GagaX, zer0Kerbal                                             |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/-*/)   |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/RustyStarRockets)   |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RustyStarRockets) |
-| spacedock  | (https://spacedock.info/mod/207)                              |
-| ckan       | RustyStarRockets                                              |
+| modName    | RustyStarRockets (RSR)                                            |
+| ---------- | ----------------------------------------------------------------- |
+| license    | null                                                              |
+| author     | GagaX, zer0Kerbal                                                 |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/RustyStarRockets)       |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RustyStarRockets)     |
+| spacedock  | (https://spacedock.info/mod/207)                                  |
+| ckan       | RustyStarRockets                                                  |
 
 ---
 
@@ -109,6 +109,9 @@
 ---
 
 ## Version 1.0.0.0-release
+
+* 03 Nov 2015
+* Released for Kerbal Space Program 1.0.4
 
 * initial release by GagaX
 
