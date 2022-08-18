@@ -1,6 +1,6 @@
 ﻿# Changelog  
   
-| modName    | RustyStarRockets (RSR)                                            |
+| modName    | Rusty Star Rockets (RSR)                                          |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC BY-NC-ND 4.0                                                   |
 | author     | GagaX and zer0Kerbal                                              |
