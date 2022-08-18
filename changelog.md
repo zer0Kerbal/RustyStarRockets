@@ -2,15 +2,13 @@
   
 | modName    | RustyStarRockets (RSR)                                            |
 | ---------- | ----------------------------------------------------------------- |
-| license    | null                                                              |
-| author     | GagaX, zer0Kerbal                                                 |
+| license    | CC BY-NC-ND 4.0                                                   |
+| author     | GagaX and zer0Kerbal                                              |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/RustyStarRockets)       |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RustyStarRockets)     |
 | spacedock  | (https://spacedock.info/mod/207)                                  |
 | ckan       | RustyStarRockets                                                  |
-
----
 
 ## Version 1.8.0.0-release
 
@@ -18,6 +16,12 @@
 * Released for Kerbal Space Program 1.3.0
 
 * No changelog provided
+
+### Status 1.8.0.0
+
+* Issues
+  * closes #9 - Archival Releases
+  * closes #45 - 1.8.0.0-release
 
 ---
 
@@ -28,6 +32,12 @@
 
 * No changelog provided
 
+### Status 1.7.0.1
+
+* Issues
+  * updates #9 - Archival Releases
+  * closes #44 - 1.7.0.1-release
+
 ---
 
 ## Version 1.7.0.0-release
@@ -36,6 +46,12 @@
 * Released for Kerbal Space Program 1.2.2
 
 * No changelog provided
+
+### Status 1.7.0.0
+
+* Issues
+  * updates #9 - Archival Releases
+  * closes #43 - 1.7.0.0-release
 
 ---
 
@@ -48,6 +64,14 @@
 * added some new engines
 * improved textures
 * various tweaks
+
+### Status 1.6.0.0
+
+* Issues
+  * updates #9 - Archival Releases
+  * closes #42 - 1.6.0.0-release
+
+---
 
 ## Version 1.5.0.0-release
 
@@ -63,15 +87,32 @@
   * large liquid fuel tank
   * turbojet engine
   * inline cockpit
-  * hypersonic air  intake
+  * hypersonic air intake
+
+### Status 1.5.0.0
+
+* Issues
+  * updates #9 - Archival Releases
+  * closes #40 - 1.5.0.0-release
 
 ---
 
 ## Version 1.4.0.0-release
 
-* new parts: hitchhiker container size 2 vacuum engine new lab some fuel tanks new submarine style command pod
+* new parts:
+  * hitchhiker container
+  * size 2 vacuum engine
+  * new lab
+  * some fuel tanks
+  * new submarine style command pod
 * improved some textures
 * various tweaks
+
+### Status 1.4.0.0
+
+* Issues
+  * updates #9 - Archival Releases
+  * closes #39 - 1.4.0.0-release
 
 ---
 
@@ -83,6 +124,12 @@
 * various tweaks
 * ...
 
+### Status 1.3.0.0
+
+* Issues
+  * updates #9 - Archival Releases
+  * closes #38 - 1.3.0.0-release
+
 ---
 
 ## Version 1.2.0.0-release
@@ -93,6 +140,12 @@
 * new size1 and size2 cockpits
 * some structural parts
 
+### Status 1.2.0.0
+
+* Issues
+  * updates #9 - Archival Releases
+  * closes #37 - 1.2.0.0-release
+
 ---
 
 ## Version 1.1.1.0-release
@@ -100,11 +153,23 @@
 * fixed parachute issues
 * added spherical fuel tanks
 
+### Status 1.1.1.0
+
+* Issues
+  * updates #9 - Archival Releases
+  * closes #36 - 1.1.1.0-release
+
 ---
 
 ## Version 1.1.0.0-release
 
 * added moar stuff
+
+### Status 1.1.0.0
+
+* Issues
+  * updates #9 - Archival Releases
+  * closes #35 - 1.1.0.0-release
 
 ---
 
@@ -114,5 +179,11 @@
 * Released for Kerbal Space Program 1.0.4
 
 * initial release by GagaX
+
+### Status 1.0.0.0
+
+* Issues
+  * updates #9 - Archival Releases
+  * closes #34 - 1.0.0.0-release
 
 ---
