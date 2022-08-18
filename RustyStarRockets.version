@@ -37,6 +37,6 @@
 	"INSTALL_LOC" :
 	{
 		"NAME"     : "RustyStarRockets",
-		"DIRECTORY": "RustyStarRockets/RustyStarRockets"
+		"DIRECTORY": "RustyStar/RustyStarRockets"
 	}
 }
