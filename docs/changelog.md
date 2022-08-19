@@ -23,7 +23,7 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/207)                                  |
 | ckan       | RustyStarRockets                                                  |
 
-## Version 1.8.0.0-release
+## Version 1.8.0.0-release - `<Archival>`
 
 * 20 Jul 2017
 * Released for Kerbal Space Program 1.3.0
@@ -39,7 +39,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.7.0.1-release
+## Version 1.7.0.1-release - `<Archival>`
 
 * 12 Mar 2017
 * Released for Kerbal Space Program 1.2.2
@@ -55,7 +55,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.7.0.0-release
+## Version 1.7.0.0-release - `<Archival>`
 
 * 05 Mar 2017
 * Released for Kerbal Space Program 1.2.2
@@ -71,7 +71,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.6.0.0-release
+## Version 1.6.0.0-release - `<Archival>`
 
 * 17 Mar 2016
 * Released for Kerbal Space Program 1.1
@@ -90,7 +90,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.5.0.0-release
+## Version 1.5.0.0-release - `<Archival>`
 
 * 21 Feb 2016
 * Released for Kerbal Space Program 1.0.5
@@ -115,7 +115,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.4.0.0-release
+## Version 1.4.0.0-release - `<Archival>`
 
 * new parts:
   * hitchhiker container
@@ -135,7 +135,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.3.0.0-release
+## Version 1.3.0.0-release - `<Archival>`
 
 * Added moar stuff, including antennae, science experiments, mk2 parts...
 * improved textures on some parts
@@ -152,7 +152,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.2.0.0-release
+## Version 1.2.0.0-release - `<Archival>`
 
 * added moar stufff
 * ok, added 2 kinds of wing sets (11 wing parts total)
@@ -169,7 +169,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.1.1.0-release
+## Version 1.1.1.0-release - `<Archival>`
 
 * fixed parachute issues
 * added spherical fuel tanks
@@ -183,7 +183,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.1.0.0-release
+## Version 1.1.0.0-release - `<Archival>`
 
 * added moar stuff
 
@@ -196,7 +196,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.0.0.0-release
+## Version 1.0.0.0-release - `<Archival>`
 
 * 03 Nov 2015
 * Released for Kerbal Space Program 1.0.4
