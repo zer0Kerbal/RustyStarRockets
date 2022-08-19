@@ -29,7 +29,7 @@
 ## Version 1.7.0.1-release - `<Archival>`
 
 * 12 Mar 2017
-* Released for Kerbal Space Program 1.2.2
+* Released for Kerbal Space Program [KSP 1.2.2]
 
 * No changelog provided
 
