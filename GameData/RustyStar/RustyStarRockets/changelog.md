@@ -61,7 +61,7 @@
 ## Version 1.6.0.0-release - `<Archival>`
 
 * 17 Mar 2016
-* Released for Kerbal Space Program 1.1
+* Released for Kerbal Space Program [KSP 1.1.0]
 
 * added various lights
 * added some new engines
