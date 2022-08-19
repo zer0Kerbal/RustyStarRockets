@@ -1,8 +1,8 @@
     *                  *
    * Rusty Star Rockets *
-  *                      *
+  *  Back From The Dead  *
  *        by GagaX        *
-*                          *
+*          v1.7            *
 =======================================================
 Instalation: 
 
