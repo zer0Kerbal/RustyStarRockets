@@ -172,6 +172,9 @@
 
 ## Version 1.1.0.0-release - `<Archival>`
 
+* 16 Nov 2015
+* Released for Kerbal Space Program 1.0.5
+
 * added moar stuff
 
 ### Status 1.1.0.0
