@@ -12,8 +12,8 @@
 
 ## Version 1.8.0.0-release - `<Archival>`
 
-* 20 Jul 2017
-* Released for Kerbal Space Program 1.3.0
+* 19 Jul 2017
+* Released for Kerbal Space Program [KSP 1.3.0]
 
 * No changelog provided
 
