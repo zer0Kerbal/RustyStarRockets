@@ -92,8 +92,8 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ## Version 1.5.0.0-release - `<Archival>`
 
-* 21 Feb 2016
-* Released for Kerbal Space Program 1.0.5
+* 25 Jan 2016
+* Released for Kerbal Space Program [KSP 1.0.5]
 
 * improved textures
 * various tweaks
