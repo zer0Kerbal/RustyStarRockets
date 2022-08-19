@@ -1,10 +1,8 @@
-    
-          *                  *
-         * Rusty Star Rockets *
-        *         v1.2         *
-       *                        *
-      *         by GagaX         *
-
+    *                  *
+   * Rusty Star Rockets *
+  *                      *
+ *        by GagaX        *
+*                          *
 =======================================================
 Instalation: 
 
