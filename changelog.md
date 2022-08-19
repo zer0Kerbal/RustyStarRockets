@@ -22,6 +22,7 @@
 * Issues
   * closes #9 - Archival Releases
   * closes #45 - 1.8.0.0-release
+* updated #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -37,6 +38,7 @@
 * Issues
   * updates #9 - Archival Releases
   * closes #44 - 1.7.0.1-release
+* updated #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -52,6 +54,7 @@
 * Issues
   * updates #9 - Archival Releases
   * closes #43 - 1.7.0.0-release
+* updated #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -70,6 +73,7 @@
 * Issues
   * updates #9 - Archival Releases
   * closes #42 - 1.6.0.0-release
+* updated #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -94,6 +98,7 @@
 * Issues
   * updates #9 - Archival Releases
   * closes #40 - 1.5.0.0-release
+* updated #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -113,6 +118,7 @@
 * Issues
   * updates #9 - Archival Releases
   * closes #39 - 1.4.0.0-release
+* updated #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -129,6 +135,7 @@
 * Issues
   * updates #9 - Archival Releases
   * closes #38 - 1.3.0.0-release
+* updated #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -145,6 +152,7 @@
 * Issues
   * updates #9 - Archival Releases
   * closes #37 - 1.2.0.0-release
+* updated #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -158,6 +166,7 @@
 * Issues
   * updates #9 - Archival Releases
   * closes #36 - 1.1.1.0-release
+* updated #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -170,6 +179,7 @@
 * Issues
   * updates #9 - Archival Releases
   * closes #35 - 1.1.0.0-release
+* updated #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -185,5 +195,6 @@
 * Issues
   * updates #9 - Archival Releases
   * closes #34 - 1.0.0.0-release
+* updated #46 - [Bug 🐞]: part.cfg errors
 
 ---
