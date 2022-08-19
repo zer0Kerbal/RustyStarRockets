@@ -117,6 +117,9 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ## Version 1.4.0.0-release - `<Archival>`
 
+* 06 Jan 2016
+* Released for Kerbal Space Program [KSP 1.0.5]
+
 * new parts:
   * hitchhiker container
   * size 2 vacuum engine
