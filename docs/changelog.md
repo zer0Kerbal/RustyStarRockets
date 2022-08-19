@@ -35,7 +35,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * closes #9 - Archival Releases
   * closes #45 - 1.8.0.0-release
-* updated #46 - [Bug 🐞]: part.cfg errors
+* updates #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -51,7 +51,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #9 - Archival Releases
   * closes #44 - 1.7.0.1-release
-* updated #46 - [Bug 🐞]: part.cfg errors
+* updates #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -67,7 +67,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #9 - Archival Releases
   * closes #43 - 1.7.0.0-release
-* updated #46 - [Bug 🐞]: part.cfg errors
+* updates #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -86,7 +86,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #9 - Archival Releases
   * closes #42 - 1.6.0.0-release
-* updated #46 - [Bug 🐞]: part.cfg errors
+* updates #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -111,7 +111,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #9 - Archival Releases
   * closes #40 - 1.5.0.0-release
-* updated #46 - [Bug 🐞]: part.cfg errors
+* updates #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -131,7 +131,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #9 - Archival Releases
   * closes #39 - 1.4.0.0-release
-* updated #46 - [Bug 🐞]: part.cfg errors
+* updates #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -148,11 +148,14 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #9 - Archival Releases
   * closes #38 - 1.3.0.0-release
-* updated #46 - [Bug 🐞]: part.cfg errors
+* updates #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
 ## Version 1.2.0.0-release - `<Archival>`
+
+* 04 Dec 2015
+* Released for Kerbal Space Program 1.0.5
 
 * added moar stufff
 * ok, added 2 kinds of wing sets (11 wing parts total)
@@ -165,7 +168,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #9 - Archival Releases
   * closes #37 - 1.2.0.0-release
-* updated #46 - [Bug 🐞]: part.cfg errors
+* updates #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -182,7 +185,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #9 - Archival Releases
   * closes #36 - 1.1.1.0-release
-* updated #46 - [Bug 🐞]: part.cfg errors
+* updates #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -198,7 +201,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #9 - Archival Releases
   * closes #35 - 1.1.0.0-release
-* updated #46 - [Bug 🐞]: part.cfg errors
+* updates #46 - [Bug 🐞]: part.cfg errors
 
 ---
 
@@ -214,6 +217,6 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issues
   * updates #9 - Archival Releases
   * closes #34 - 1.0.0.0-release
-* updated #46 - [Bug 🐞]: part.cfg errors
+* updates #46 - [Bug 🐞]: part.cfg errors
 
 ---
