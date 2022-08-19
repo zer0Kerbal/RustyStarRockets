@@ -124,6 +124,9 @@
 
 ## Version 1.3.0.0-release - `<Archival>`
 
+* 21 Dec 2015
+* Released for Kerbal Space Program 1.0.5
+
 * Added moar stuff, including antennae, science experiments, mk2 parts...
 * improved textures on some parts
 * redistributed parts on tech tree, now it makes some sense
