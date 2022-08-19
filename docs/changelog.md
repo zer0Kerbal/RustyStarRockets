@@ -171,6 +171,9 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ## Version 1.1.1.0-release - `<Archival>`
 
+* 19 Nov 2015
+* Released for Kerbal Space Program 1.0.5
+
 * fixed parachute issues
 * added spherical fuel tanks
 
