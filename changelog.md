@@ -141,6 +141,9 @@
 
 ## Version 1.2.0.0-release - `<Archival>`
 
+* 04 Dec 2015
+* Released for Kerbal Space Program 1.0.5
+
 * added moar stufff
 * ok, added 2 kinds of wing sets (11 wing parts total)
 * finished IVA for lab
