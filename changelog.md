@@ -189,7 +189,7 @@
 ## Version 1.0.0.0-release - `<Archival>`
 
 * 03 Nov 2015
-* Released for Kerbal Space Program 1.0.4
+* Released for Kerbal Space Program 1.0.5
 
 * initial release by GagaX
 
