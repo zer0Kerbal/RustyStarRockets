@@ -10,6 +10,18 @@
 | spacedock  | (https://spacedock.info/mod/207)                                  |
 | ckan       | RustyStarRockets                                                  |
 
+
+## Version 1.8.0.0-adoption - `<Thank you GagaX` edition
+
+
+* 20 Aug 2022
+* Released for Kerbal Space Program 1.12.3
+
+
+KSP_VERSION_MAX
+
+---
+
 ## Version 1.8.0.0-release - `<Archival>`
 
 * 19 Jul 2017
