@@ -13,7 +13,7 @@ updated: 10 Aug 2022 -->
 
 # Rusty Star Rockets (RSR)
 
-This part addon contains over one hundred parts made of rusty metal.
+This part addon contains over one hundred and twenty (120) parts and twenty (20) unique IVA', all with rusty aesthetics. For Kerbal Space Program.
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`GagaX`][gagax]
@@ -122,7 +122,7 @@ Other Rusty Star Rockets (RSR) mods:
   * for fully functioning wheels. may invoke bouts of dizziness.
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [Community Resource Pack][crp]  
-* [USI-core][USI-core]
+* [USI Core][usic]
 * [Community Category Kit (CCK)][CCK]
 
 ### Tags
@@ -165,8 +165,8 @@ parts, config
 
 ### DONATIONS: How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
 
-> ***Completely voluntary, absolutely amazing, and really does help me out a lot!***
-> <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" height="25" >cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
+> ***Completely voluntary, absolutely amazing, and really does help me out a lot!***  
+> from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" height="25" >cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
@@ -239,6 +239,7 @@ parts, config
 [RP]: https://spacedock.info/mod/1106 "Rusty Panels"
 
 [b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
+[CCK]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/ "Community Category Kit (CCK)"
 [crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"  
 [fscore]: https://github.com/snjo/Firespitter/ "Firespitter Core"
 [far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
@@ -250,10 +251,11 @@ parts, config
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [rpm]: https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*/ "Raster Prop Monitor"
+[usic]: https://forum.kerbalspaceprogram.com/index.php?/topic/122420-*/ "USI Core"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
-[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-Rust--koleum-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"
