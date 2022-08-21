@@ -28,7 +28,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 > This mod adds parts made of rusty metal.
 >
-> The goal of this mod is to let you build rockets/spaceplanes that have completely different look than stock parts, and most of the other mods. If you like aestetics of Firefly, Red Dwarf, Fallout, Mad Max, you might like this mod.
+> The goal of this mod is to let you build rockets/spaceplanes that have completely different look than stock parts, and most of the other mods. If you like the aesthetics of Firefly, Red Dwarf, Fallout, Mad Max, you might like this mod.
 >
 > Most of the parts have stats comparable to similar stock parts. Some are maybe slightly OP.
 >

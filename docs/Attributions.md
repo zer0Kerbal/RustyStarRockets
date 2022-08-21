@@ -24,7 +24,7 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/"><img border="0" alt="GagaX" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/Rusty2_150px.png.1828a17115ddf26e224f4dd2bed4fda7.thumb.png.3b00d9038455e2ae006bca40a6cc0fca.png" width="50" height="50" > GagaX</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="GagaX Ltd (KM)"> Rusty Star Rockets!</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/"><img border="0" alt="GagaX" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/Rusty2_150px.png.1828a17115ddf26e224f4dd2bed4fda7.thumb.png.3b00d9038455e2ae006bca40a6cc0fca.png" width="50" height="50" > GagaX</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Rusty Star Rockets (RSR)"> Rusty Star Rockets!</a></li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/129964-*/"><img border="0" alt="linuxgurugamer" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2017_09/square_800x800.thumb.png.ab7375e7b1dbf21a10e5b8697a63fa5f.png" width="50" height="50" > linuxgurugamer</a> for handing these off to me!</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
