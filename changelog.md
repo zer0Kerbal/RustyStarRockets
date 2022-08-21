@@ -2,13 +2,35 @@
   
 | modName    | Rusty Star Rockets (RSR)                                          |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC BY-NC-ND 4.0                                                   |
+| license    | CC BY-ND 4.0                                                      |
 | author     | GagaX and zer0Kerbal                                              |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/RustyStarRockets)       |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RustyStarRockets)     |
 | spacedock  | (https://spacedock.info/mod/207)                                  |
 | ckan       | RustyStarRockets                                                  |
+
+## Version 1.8.0.0-adoption - `<Thank you GagaX` edition
+
+* 21 Aug 2022
+* Released for Kerbal Space Program 1.12.3
+
+* [RustyStarRockets.version]
+  * remove
+    * KSP_VERSION_MAX
+
+### Convert Sound Assets
+
+* Convert
+  * sound_gecko
+  * sound_iguana
+  * sound_komodo
+  * soundSPHERE
+    * from `wav` to `ogg`
+    * from 9.42mb --> 374kb
+* closes #60 - Convert Sound Assets
+
+---
 
 ## Version 1.8.0.0-release - `<Archival>`
 
