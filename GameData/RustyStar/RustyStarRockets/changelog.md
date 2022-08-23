@@ -73,7 +73,7 @@ NewModel.mu --> rsr-rcs-block.mu
 RustyReactionWheel --> rsr-rw-125
 model.mu --> rsr-rw-125.mu
 
-RustyReactionWheel2 --> rsr-rw-250 
+RustyReactionWheel2 --> rsr-rw-250
 model.mu --> rsr-rw-250.mu
 
  --> 
