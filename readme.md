@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.9.4
+<!-- readme.md v1.6.9.5
 Rusty Star Rockets (RSR)
 created: 17 Jul 2017
-updated: 10 Aug 2022 -->
+updated: 17 Aug 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
@@ -231,7 +231,7 @@ parts, config
 [OHS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-*/ "Oh Scrap!"  
 [SYD]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-*/ "ScrapYard"  
 
-[RSS]: https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/ "Rusty Star Shipyards"
+[RSS]: https://forum.kerbalspaceprogram.com/index.php?/topic/209456-*/ "Rusty Star Shipyards"
 [RSR]: https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/ "Rusty Star Rockets"
 [PoK]: https://spacedock.info/mod/903 "Pirates of the Keribbean"
 [RTP]: http://forum.kerbalspaceprogram.com/index.php?/topic/126355-*/ "Rusty Star Textures"
@@ -255,7 +255,7 @@ parts, config
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
-[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-Rust--koleum-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-rust--koleum-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"
@@ -295,17 +295,15 @@ parts, config
 [linuxgurugamer]: https://forum.kerbalspaceprogram.com/index.php?/profile/129964-*/ "linuxgurugamer"  
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
-[IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
-
 ---
 
 #### Connect with me
 
 Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/RustyStarRockets/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
-[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]</br>
 
 <!-- footnotes -->
-[^1]: this isn't a mod. ;P
-[^2]: ***may*** work on other versions (YMMV)
-[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
+[^1]: this isn't a mod. ;P  
+[^2]: ***may*** work on other versions (YMMV)  
+[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*  
