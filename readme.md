@@ -55,6 +55,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Help Wanted
 
+> * The 'Sphere' is dying for some lights.... see it and understand!
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Variant Textures
