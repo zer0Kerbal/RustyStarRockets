@@ -80,6 +80,6 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * [Rusty Star Shipyards (RSS)][RSS]
 
-[RSS]: https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/ "Rusty Star Shipyards"
+[RSS]: https://forum.kerbalspaceprogram.com/index.php?/topic/209456-*/ "Rusty Star Shipyards"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
