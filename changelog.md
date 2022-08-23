@@ -19,6 +19,16 @@
   * remove
     * KSP_VERSION_MAX
 
+Command
+rsr-KerbalInTheBox --> rsr-KerbalInTheBox
+model.mu - rsr-KerbalInTheBox.mu
+
+CompoundParts
+
+FX/
+convert from .tga --> png
+from 468kb -->
+
 ### Convert Sound Assets
 
 * Convert
