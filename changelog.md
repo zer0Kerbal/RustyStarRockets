@@ -19,9 +19,70 @@
   * remove
     * KSP_VERSION_MAX
 
+header
+
 Command
 rsr-KerbalInTheBox --> rsr-KerbalInTheBox
 model.mu - rsr-KerbalInTheBox.mu
+
+RSR_Avion --> rsr-avion
+NewModel.mu --> rsr-avion.mu
+
+RSR_Avion2 --> rsr-avion-2
+model.mu --> rsr-avion-2.mu
+
+RSR_HQ --> rsr-hq
+model.mu --> rsr-hq.mu
+
+RSR_Inline_Cockpit --> rsr-cockpit-inline
+NewModel.mu --> rsr-cockpit-inline.mu
+
+RSR_SubCP --> rsr-sub-pod
+NewModel.mu --> rsr-sub-pod
+
+RSRmk2Cockpit --> rsr-cockpit-mk2
+mk2cockpit.mu --> rsr-cockpit-mk2.mu
+
+RSRSkullPod --> rsr-skull-pod
+NewModel.mu --> rsr-sub-pod
+
+RustyCapsuleS2 --> rsr-capsule-250
+model.mu --> rsr-capsule-250
+
+RustyCapsuleS2_2 --> rsr-capsule-250-rtg
+model.mu --> rsr-capsule-250-rtg.mu
+
+RustyCapsule --> rsr-capsule-125
+model.mu --> rsr-capsule-125.mu
+
+RustyCapsuleAvion --> rsr-capsule-avion-125
+model.mu --> rsr-capsule-avion-125.mu
+
+Size2AvionCockpit --> rsr-capsule-avion-250
+NewModel.mu --> rsr-capsule-avion-250.mu
+
+sphere --> rsr-sphere-125
+sphere.mu --> rsr-sphere.mu
+
+RSRstrutConnector --> rsr-strut-connector
+model.mu --> rsr-strut-connector.mu
+
+RustyRCS_block --> rsr-rcs-block
+NewModel.mu --> rsr-rcs-block.mu
+
+RustyReactionWheel --> rsr-rw-125
+model.mu --> rsr-rw-125.mu
+
+RustyReactionWheel2 --> rsr-rw-250 
+model.mu --> rsr-rw-250.mu
+
+ --> 
+model.mu --> .mu
+
+ --> 
+model.mu --> .mu
+
+
 
 CompoundParts
 
