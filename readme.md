@@ -47,8 +47,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ---
 
-![Hero Image][IMG:hero:0]
-
 ### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
 [![KSP Mods - Rusty Star Rockets](https://img.youtube.com/vi/G_X4xw5P5tw/0.jpg)](https://www.youtube.com/watch?v=G_X4xw5P5tw)
