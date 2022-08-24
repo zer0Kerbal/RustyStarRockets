@@ -1,5 +1,5 @@
 ﻿# Changelog  
-	
+
 | modName    | Rusty Star Rockets (RSR)                                          |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC BY-ND 4.0                                                      |
