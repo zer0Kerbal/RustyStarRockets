@@ -12,7 +12,7 @@ updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Rusty Star Rockets (RSR)
+# [Rusty Star Rockets (RSR)][RSR]
 
 [Home](./index.md)
 
@@ -51,7 +51,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 ```markdown
 <KSP_ROOT>
   + [GameData]
-    + [RustyStar]tion]
+    + [RustyStarShipyards]
     + [RustyStarRockets]
       + [Compatibility]
         ...
@@ -80,6 +80,5 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * [Rusty Star Shipyards (RSS)][RSS]
 
+[RSR]: https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/ "Rusty Star Rockets"
 [RSS]: https://forum.kerbalspaceprogram.com/index.php?/topic/209456-*/ "Rusty Star Shipyards"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
