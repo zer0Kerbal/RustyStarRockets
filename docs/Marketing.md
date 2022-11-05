@@ -2,80 +2,101 @@
 permalink: /Marketing.html
 title: Marketing Images
 description: camera goes *click-click*
-# layout: bare
-tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,Lisias,zedK
+tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- Marketing.md v1.0.1.0
+<!-- Marketing.md v1.0.1.2
 Rusty Star Rockets (RSR)
 created: 13 Apr 2022
-updated: 15 May 2022
+updated: 20 Oct 2022
 
 based upon work by LisiasT -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-user-astronaut fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #BADA55" ></i>
 
-# Rusty Star Rockets (RSR) (WIP)
+# Rusty Star Rockets (RSR) [WIP]
 
 [Home](./index.md)
 
+  ![RSR Logo][IMG:hero:2a]
+
 ## Marketing Slicks
 
-* Table of Contents)
-  * [Resource Flow](#Resource-Flow)
-  * [Mining Ore](#Mining-Ore)
-  * [Refining Ore to Metal](#Refining-Ore-to-Metal)
-  * [Printing Rocketparts from Metal](#Printing-Rocketparts-from-Metal)
-  * [Building Rockets](#Building-Rockets)
-  * [Finalize build](#Finalize-build)
+* Table of Contents
+  * [A](#a)
+  * [B](#b)
+  * [C](#c)
+  * [D](#d)
+  * [E](#e)
+  * [F](#f)
+  * [G](#g)
+  * [H](#h)
+  * [I](#i)
 
-### Resource Flow
+### A
 
-![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
-[top](#Table-of-Contents)
+[top](#table-of-contents)
 
-### Mining Ore
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HeroLogo_1920x1920.png" alt="RustyStarRockets Hero" width="50%" height="50%">
+
+### B
 
 First mine the ore *(after you find it)*
 
-![Mining Ore][IMG:hero:2a]
-[top](#Table-of-Contents)
+![Mining Ore][IMG:hero:2b]
+[top](#table-of-contents)
 
-### Refining Ore to Metal
+### C
 
 Then refine the ore into metal
 
-![Refining Ore to Metal][IMG:hero:2b]
-[top](#Table-of-Contents)
+![Refining Ore to Metal][IMG:hero:2c]
+[top](#table-of-contents)
 
-### Printing Rocketparts from Metal
+### D
 
 Then using the MPL Science lab, print Rocket Parts
 
-![Printing Rocketparts from Metal][IMG:hero:2c]
-[top](#Table-of-Contents)
+![Printing Rocketparts from Metal][IMG:hero:2d]
+[top](#table-of-contents)
 
-### Building Rockets
+### E
 
 Then using a command pod and a docking port, build a new vessel or subassembly or even just a part
 
-![Building Rockets][IMG:hero:2d]
-[top](#Table-of-Contents)
+![Building Rockets][IMG:hero:2e]
+[top](#table-of-contents)
 
-### Finalize build
+### F
 
-Finalize your build and load up the resources, and
+![Finalize build!][IMG:hero:2f]
+[top](#table-of-contents)
 
-*PROFIT!*
+### G
 
-![Finalize build!][IMG:hero:2e]
-[top](#Table-of-Contents))
+![Finalize build!][IMG:hero:2g]
+[top](#table-of-contents)
 
-[IMG:hero:2a]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
-[IMG:hero:2b]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
-[IMG:hero:2c]: https://i.imgur.com/jhbus6m.png "Printing Rocketparts from Metal"
-[IMG:hero:2d]: https://i.imgur.com/6v9gwma.png "Building Rockets"
-[IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"
+### H
+
+![Finalize build!][IMG:hero:2h]
+[top](#table-of-contents)
+
+### I
+
+![Finalize build!][IMG:hero:2i]
+[top](#table-of-contents)
+
+[IMG:hero:2a]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/logo.png "RSR Logo"
+[IMG:hero:2b]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-01.png "Hero"
+[IMG:hero:2c]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-02.jpg "Hero"
+[IMG:hero:2d]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-03.jpg "Hero"
+[IMG:hero:2e]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-04.jpg "Hero"
+[IMG:hero:2f]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-05.jpg "Hero"
+[IMG:hero:2g]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-06.jpg "Hero"
+[IMG:hero:2h]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-07.jpg "Hero"
+[IMG:hero:2i]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-08.jpg "Hero"
+[IMG:hero:1]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HeroLogo_1920x1920.png "Cover"
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
