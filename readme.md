@@ -89,7 +89,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 * [Rusty Star Shipyards][RSS] agent, flags, common files
 
-### Recomends  
+### Recommends  
 
 Other Rusty Star Rockets (RSR) mods:
 
@@ -288,7 +288,7 @@ parts, config
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
-[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
+https://www.youtube.com/@zer0Kerbal
 
 [gagax]: https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/ "GagaX"
 [linuxgurugamer]: https://forum.kerbalspaceprogram.com/index.php?/profile/129964-*/ "linuxgurugamer"  
