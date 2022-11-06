@@ -102,17 +102,43 @@ Kerbalinthebox
 
 ## Science
 
+  Science Experiment: Goo
+  Science Experiment: Rust
+  Science Bay Material
+  Science Lab 1
+  Science Lab 2
+
 [top](#parts-catalog)
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-science-exp-goo_icon.png" alt="Science Experiment: Goo" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-science-exp-rust_icon.png" alt="Science Experiment: Rust" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-science-bay-material_icon.png" alt="Science Bay Material" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-science-lab-1_icon.png" alt="Science Lab 1" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-science-lab-2_icon.png" alt="Science Lab 2" width="25%" height="25%" />
 
 ---
 
 ## Electrical
 
+* Reactor
+* Solar panel
+* Solar round
+* Solar static
+
 [top](#parts-catalog)
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-elec-reactor_icon.png" alt="Reactor" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-elec-solar-panel_icon.png" alt="Solar panel" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-elec-solar-round_icon.png" alt="Solar round" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-elec-solar-stat_icon.png" alt="Solar static" width="25%" height="25%" />
 
 ---
 
 ## Thermal
+
+* Rust Radial Radiator
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-therm-rad_icon.png" alt="Rust Radial Radiator" width="25%" height="25%" />
 
 [top](#parts-catalog)
 
@@ -125,6 +151,12 @@ Kerbalinthebox
 ---
 
 ## Compound
+
+* Fuelline
+* Strut Connector
+
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-fuelline_icon.png" alt="Fuelline"" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-strut-connector_icon.png" alt="Strut Connector"" width="25%" height="25%" />
 
 [top](#parts-catalog)  
 
