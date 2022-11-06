@@ -10,10 +10,47 @@
 | spacedock  | (https://spacedock.info/mod/207)                                  |
 | ckan       | RustyStarRockets                                                  |
 
-rsr-elec-reactor.cfg
-rsr-elec-solar-panel.cfg
-rsr-elec-solar-round.cfg
-rsr-elec-solar-stat.cfg
+# Version 1.8.99.1-prerelease - `<Rust Koleum: 1st coat>` edition
+
+* Released
+  * 05 Nov 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+## Summary 1.8.99.1
+
+* ten more parts updated
+  * science
+    * <rsr-science-lab-1.cfg>
+    * <rsr-science-lab-2.cfg>
+    * <rsr-science-bay-material.cfg>
+    * <rsr-science-exp-goo.cfg>
+    * <rsr-science-exp-rust.cfg>
+  * electrical
+    * <rsr-elec-reactor.cfg>
+    * <rsr-elec-solar-panel.cfg>
+    * <rsr-elec-solar-round.cfg>
+    * <rsr-elec-solar-stat.cfg>
+  * thermal
+    * <rsr-therm-rad.cfg>
+* for more details, read the release notes for 1.8.99.0
+* just doing more of the same
+
+## Status 1.8.99.0
+
+* Issues
+  * closes #66 - Rusty Star Rockets (RSR) 1.8.99.1-prerelease `<Rust Koleum: 1st coat>`
+  * closes #67 - 1.8.99.1 Verify Legal Mumbo Jumbo
+  * closes #68 - 1.8.99.1 Update Documentation
+  * closes #69 - 1.8.99.1 Update Social Media
+  * updates #62 - Create Thumbs
+  * updates #33 - Part Localization
+  * updates #16 - English <us-en.cfg>
+  * updates #15 - Localization - Master
+  * updates #14 - [DRAG_CUBE]
+  * updates #11 - Part Asset Updates
+
+---
 
 ## Version 1.8.99.0-adoption - `<Thank you GagaX` edition
 
