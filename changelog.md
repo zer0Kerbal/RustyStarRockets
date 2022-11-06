@@ -10,6 +10,11 @@
 | spacedock  | (https://spacedock.info/mod/207)                                  |
 | ckan       | RustyStarRockets                                                  |
 
+rsr-elec-reactor.cfg
+rsr-elec-solar-panel.cfg
+rsr-elec-solar-round.cfg
+rsr-elec-solar-stat.cfg
+
 ## Version 1.8.99.0-adoption - `<Thank you GagaX` edition
 
 * 21 Aug 2022
