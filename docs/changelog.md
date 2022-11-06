@@ -22,14 +22,14 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | spacedock  | (https://spacedock.info/mod/207)                                  |
 | ckan       | RustyStarRockets                                                  |
 
-# Version 1.8.99.1-prerelease - `<Rust Koleum: 1st coat>` edition
+## Version 1.8.99.1-prerelease - `<Rust Koleum: 1st coat>` edition
 
 * Released
   * 05 Nov 2022
   * for Kerbal Space Program 1.12.4
   * by zer0Kerbal
 
-## Summary 1.8.99.1
+### Summary 1.8.99.1
 
 * ten more parts updated
   * science
@@ -48,7 +48,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * for more details, read the release notes for 1.8.99.0
 * just doing more of the same
 
-## Status 1.8.99.0
+### Status 1.8.99.0
 
 * Issues
   * closes #66 - Rusty Star Rockets (RSR) 1.8.99.1-prerelease `<Rust Koleum: 1st coat>`
