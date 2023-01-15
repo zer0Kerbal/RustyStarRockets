@@ -35,7 +35,7 @@ This add-on adds one hundred (100) rusty parts
 
 ---
 
-  <!-- <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/ -->
+  <!-- <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/ -->
 
 ### Capsules
 
@@ -55,33 +55,33 @@ This add-on adds one hundred (100) rusty parts
 * Capsule 0625
 Kerbalinthebox
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-capsule-avion-125_icon.png" alt="Capsule Avion 125" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-capsule-avion-250_icon.png" alt="Capsule Avion 250" width="25%" height="25%" />
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-avion_icon.png" alt="=Avion" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-avion-2_icon.png" alt="Avion 2" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-capsule-avion-125_icon.png" alt="Capsule Avion 125" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-capsule-avion-250_icon.png" alt="Capsule Avion 250" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-avion_icon.png" alt="=Avion" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-avion-2_icon.png" alt="Avion 2" width="25%" height="25%" />
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-skull-pod_icon.png" alt="Skull Pod" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-skull-pod_icon.png" alt="Skull Pod" width="25%" height="25%" />
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-sphere-125_icon.png" alt="Sphere 125" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-sphere-125_icon.png" alt="Sphere 125" width="25%" height="25%" />
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-sub-pod_icon.png" alt="Sub Pod" width="25%" height="25%" />
-
-
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-capsule-125_icon.png" alt="Capsule 125" width="25%" height="25%" />
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-capsule-250_icon.png" alt="Capsule 250" width="25%" height="25%" />
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-capsule-250-rtg_icon.png" alt="Capsule 250 Rtg" width="25%" height="25%" />
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-capsule-0625_icon.png" alt="Capsule 0625" width="25%" height="25%" />
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-capsule-avion-250_icon.png" alt="Capsule Avion 250" width="25%" height="25%" />
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-cockpit-inline_icon.png" alt="Cockpit Inline" width="25%" height="25%" />
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-cockpit-mk2_icon.png" alt="Cockpit Mk2" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-sub-pod_icon.png" alt="Sub Pod" width="25%" height="25%" />
 
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-KerbalInTheBox_icon.png" alt="Kerbalinthebox" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-capsule-125_icon.png" alt="Capsule 125" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-capsule-250_icon.png" alt="Capsule 250" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-capsule-250-rtg_icon.png" alt="Capsule 250 Rtg" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-capsule-0625_icon.png" alt="Capsule 0625" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-capsule-avion-250_icon.png" alt="Capsule Avion 250" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-cockpit-inline_icon.png" alt="Cockpit Inline" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-cockpit-mk2_icon.png" alt="Cockpit Mk2" width="25%" height="25%" />
+
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-KerbalInTheBox_icon.png" alt="Kerbalinthebox" width="25%" height="25%" />
 
 ---
 
@@ -91,12 +91,12 @@ Kerbalinthebox
 
 * RCS Block
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-rcs-block_icon.png" alt="RCS Block" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-rcs-block_icon.png" alt="RCS Block" width="25%" height="25%" />
 
 * RW 125
 * RW 250
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-rw-125_icon.png" alt="RW 125" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-rw-250_icon.png" alt="RW 250" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-rw-125_icon.png" alt="RW 125" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-rw-250_icon.png" alt="RW 250" width="25%" height="25%" />
 
 ---
 
@@ -110,11 +110,11 @@ Kerbalinthebox
 
 [top](#parts-catalog)
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-science-exp-goo_icon.png" alt="Science Experiment: Goo" width="25%" height="25%" />
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-science-exp-rust_icon.png" alt="Science Experiment: Rust" width="25%" height="25%" />
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-science-bay-material_icon.png" alt="Science Bay Material" width="25%" height="25%" />
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-science-lab-1_icon.png" alt="Science Lab 1" width="25%" height="25%" />
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-science-lab-2_icon.png" alt="Science Lab 2" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-science-exp-goo_icon.png" alt="Science Experiment: Goo" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-science-exp-rust_icon.png" alt="Science Experiment: Rust" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-science-bay-material_icon.png" alt="Science Bay Material" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-science-lab-1_icon.png" alt="Science Lab 1" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-science-lab-2_icon.png" alt="Science Lab 2" width="25%" height="25%" />
 
 ---
 
@@ -127,10 +127,10 @@ Kerbalinthebox
 
 [top](#parts-catalog)
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-elec-reactor_icon.png" alt="Reactor" width="25%" height="25%" />
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-elec-solar-panel_icon.png" alt="Solar panel" width="25%" height="25%" />
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-elec-solar-round_icon.png" alt="Solar round" width="25%" height="25%" />
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-elec-solar-stat_icon.png" alt="Solar static" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-elec-reactor_icon.png" alt="Reactor" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-elec-solar-panel_icon.png" alt="Solar panel" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-elec-solar-round_icon.png" alt="Solar round" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-elec-solar-stat_icon.png" alt="Solar static" width="25%" height="25%" />
 
 ---
 
@@ -138,7 +138,7 @@ Kerbalinthebox
 
 * Rust Radial Radiator
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-therm-rad_icon.png" alt="Rust Radial Radiator" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-therm-rad_icon.png" alt="Rust Radial Radiator" width="25%" height="25%" />
 
 [top](#parts-catalog)
 
@@ -156,7 +156,7 @@ Kerbalinthebox
 * Strut Connector
 
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-fuelline_icon.png" alt="Fuelline"" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-strut-connector_icon.png" alt="Strut Connector"" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-fuelline_icon.png" alt="Fuelline"" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-strut-connector_icon.png" alt="Strut Connector"" width="25%" height="25%" />
 
 [top](#parts-catalog)  
 
@@ -166,6 +166,6 @@ Kerbalinthebox
 
 [top](#parts-catalog)
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/%40thumbs/rsr-hq_icon.png" alt="HQ" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-hq_icon.png" alt="HQ" width="25%" height="25%" />
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
