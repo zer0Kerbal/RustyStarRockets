@@ -1,4 +1,4 @@
-# Changelog  
+﻿# Changelog  
 
 | modName    | Rusty Star Rockets (RSR)                                          |
 | ---------- | ----------------------------------------------------------------- |
@@ -27,6 +27,7 @@
 
 ### Summary 1.8.99.1
 
+Sphere Interior
 
 * Utility
 RustyKlaw
