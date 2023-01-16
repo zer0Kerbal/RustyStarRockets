@@ -81,8 +81,8 @@ or [![CKAN][ckan:img]][ckan:url]
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 * [Rusty Star Shipyards][RSS] agent, flags, common files
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
 ### Recommends  
 
@@ -99,7 +99,7 @@ Other Rusty Star Rockets (RSR) mods:
 * [On Demand Fuel Cells {ODFC)}][ODFC]  
 * [Docking Port Descriptions(DPD)][DPD]  
 * [Biomatic][BIO]
-* [Oh Scrap!][OHS]:  
+* [OhScrap!][OHS]:  
 * [ScrapYard][SYD]:  
 * [TweakScale][twk]
 
