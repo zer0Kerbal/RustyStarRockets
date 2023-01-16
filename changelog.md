@@ -53,6 +53,13 @@
 
 ---
 
+## Version 1.8.99.1-prerelease - `<Rust Koleum: 1st coat>` edition
+
+* Released
+  * 06 Nov 2022
+  * for Kerbal Space Program 1.12.4
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
 ### Summary 1.8.99.1
 
 * ten more parts updated
