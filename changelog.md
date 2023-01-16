@@ -20,8 +20,7 @@
 ### Summary 1.8.99.2
 
 * Update
-  * Sphere Interior
-
+  * Sphere Interior (working now) - still needs navigation lights
 * ten more parts updated
   * Utility
     * [rsr-klaw.cfg]
