@@ -10,12 +10,68 @@
 | spacedock  | (https://spacedock.info/mod/207)                                  |
 | ckan       | RustyStarRockets                                                  |
 
+## Version 1.8.99.2-prerelease - `<Rust Koleum: 2nd coat` edition
+
+* Released
+  * 15 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
 ## Version 1.8.99.1-prerelease - `<Rust Koleum: 1st coat>` edition
 
 * Released
   * 05 Nov 2022
   * for Kerbal Space Program 1.12.4
   * by zer0Kerbal
+
+
+### Summary 1.8.99.1
+
+
+* Utility
+RustyKlaw
+RSR_HH
+RSR_Radial
+* Antenna
+RELAY001
+RSRAntennae1
+RSRAntennae2
+RSRrelays
+* Misc
+ObjectX
+StrangeDebris
+AlienEngine
+
+* ten more parts updated
+  * science
+    * <rsr-science-lab-1.cfg>
+    * <rsr-science-lab-2.cfg>
+    * <rsr-science-bay-material.cfg>
+    * <rsr-science-exp-goo.cfg>
+    * <rsr-science-exp-rust.cfg>
+  * electrical
+    * <rsr-elec-reactor.cfg>
+    * <rsr-elec-solar-panel.cfg>
+    * <rsr-elec-solar-round.cfg>
+    * <rsr-elec-solar-stat.cfg>
+  * thermal
+    * <rsr-therm-rad.cfg>
+* for more details, read the release notes for 1.8.99.0
+* just doing more of the same
+
+### Status 1.8.99.0
+
+* Issues
+  * closes #72 - Rusty Star Rockets (RSR) 1.8.99.2-prerelease `<Rust Koleum: 2nd coat>` edition
+  * closes #73 - 1.8.99.2 Additional Tasks
+  * updates #62 - Create Thumbs
+  * updates #33 - Part Localization
+  * updates #16 - English <us-en.cfg>
+  * updates #15 - Localization - Master
+  * updates #14 - [DRAG_CUBE]
+  * updates #11 - Part Asset Updates
+
+---
 
 ### Summary 1.8.99.1
 
