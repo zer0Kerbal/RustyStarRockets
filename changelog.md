@@ -1,4 +1,4 @@
-# Changelog  
+﻿# Changelog  
 
 | modName    | Rusty Star Rockets (RSR)                                          |
 | ---------- | ----------------------------------------------------------------- |
@@ -10,12 +10,48 @@
 | spacedock  | (https://spacedock.info/mod/207)                                  |
 | ckan       | RustyStarRockets                                                  |
 
-## Version 1.8.99.1-prerelease - `<Rust Koleum: 1st coat>` edition
+## Version 1.8.99.2-prerelease - `<Rust Koleum: 2nd coat` edition
 
 * Released
-  * 05 Nov 2022
-  * for Kerbal Space Program 1.12.4
-  * by zer0Kerbal
+  * 15 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.8.99.2
+
+* Update
+  * Sphere Interior (working now) - still needs navigation lights
+* ten more parts updated
+  * Utility
+    * [rsr-klaw.cfg]
+    * [rsr-crew-cabin-250.cfg]
+    * [rsr-crew-cabin-radial.cfg]
+  * Antenna
+    * [rsr-antenna-direct-1.cfg]
+    * [rsr-antenna-relay-100.cfg]
+    * [rsr-antenna-relay-x0.cfg]
+    * [rsr-antenna-relay-x1.cfg]
+  * Misc
+    * [rsr-objectX.cfg]
+    * [rsr-strangedebris.cfg]
+    * [rsr-engine-alien.cfg]
+* for more details, read the release notes for 1.8.99.0
+* just doing more of the same
+
+### Status 1.8.99.2
+
+* Issues
+  * closes #72 - Rusty Star Rockets (RSR) 1.8.99.2-prerelease `<Rust Koleum: 2nd coat>` edition
+  * closes #73 - 1.8.99.2 Additional Tasks
+  * updates #11 - Part Asset Updates
+  * updates #14 - [DRAG_CUBE]
+  * updates #15 - Localization - Master
+  * updates #16 - English <us-en.cfg>
+  * updates #33 - Part Localization
+  * updates #62 - Create Thumbs
+  * updates #74 - Model load error
+
+---
 
 ### Summary 1.8.99.1
 
