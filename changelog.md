@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/207)                                  |
 | ckan       | RustyStarRockets                                                  |
 
-## Version 1.8.99.2-prerelease - `<Rust Koleum: 2nd coat` edition
+## Version 1.8.99.2-prerelease - `<Rust Koleum: 2nd coat>` edition
 
 * Released
   * 15 Jan 2023
