@@ -10,6 +10,50 @@
 | spacedock  | (https://spacedock.info/mod/207)                                  |
 | ckan       | RustyStarRockets                                                  |
 
+## Version 1.8.99.3-prerelease - `<Rust Koleum: 3rd coat>` edition
+
+* Released
+  * 05 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* Add
+  * Small Rusty Klaw
+* Update
+  * GhostParts.cfg v2.0.0.0
+    * Added StackInlineLights.cfg v1.0.0.0
+* ten more parts updated
+  * Utility
+    * [rsr-klaw.cfg]
+    * [rsr-crew-cabin-250.cfg]
+    * [rsr-crew-cabin-radial.cfg]
+  * Antenna
+    * [rsr-antenna-direct-1.cfg]
+    * [rsr-antenna-relay-100.cfg]
+    * [rsr-antenna-relay-x0.cfg]
+    * [rsr-antenna-relay-x1.cfg]
+  * Misc
+    * [rsr-objectX.cfg]
+    * [rsr-strangedebris.cfg]
+    * [rsr-engine-alien.cfg]
+* for more details, read the release notes for 1.8.99.0
+* just doing more of the same
+
+### Status 1.8.99.3
+
+* Issues
+  * closes #72 - Rusty Star Rockets (RSR) 1.8.99.2-prerelease `<Rust Koleum: 2nd coat>` edition
+  * closes #73 - 1.8.99.2 Additional Tasks
+  * updates #11 - Part Asset Updates
+  * updates #14 - [DRAG_CUBE]
+  * updates #15 - Localization - Master
+  * updates #16 - English <us-en.cfg>
+  * updates #33 - Part Localization
+  * updates #62 - Create Thumbs
+  * updates #74 - Model load error
+
+---
+
 ## Version 1.8.99.2-prerelease - `<Rust Koleum: 2nd coat>` edition
 
 * Released
@@ -79,7 +123,7 @@
 * for more details, read the release notes for 1.8.99.0
 * just doing more of the same
 
-### Status 1.8.99.0
+### Status 1.8.99.1
 
 * Issues
   * closes #66 - Rusty Star Rockets (RSR) 1.8.99.1-prerelease `<Rust Koleum: 1st coat>`
