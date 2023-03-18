@@ -17,8 +17,8 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-
-
+* Add
+  * Small Rusty Klaw
 * Update
   * GhostParts.cfg v2.0.0.0
     * Added StackInlineLights.cfg v1.0.0.0
@@ -39,7 +39,7 @@
 * for more details, read the release notes for 1.8.99.0
 * just doing more of the same
 
-### Status 1.8.99.2
+### Status 1.8.99.3
 
 * Issues
   * closes #72 - Rusty Star Rockets (RSR) 1.8.99.2-prerelease `<Rust Koleum: 2nd coat>` edition
