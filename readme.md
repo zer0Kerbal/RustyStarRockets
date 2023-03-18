@@ -166,7 +166,7 @@ Comment, click, like, share, up-vote, subscribe
 [attrb]: https://zer0kerbal.github.io/RustyStarRockets/Attributions "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/changelog.md  "Changelog"
 [discu]: https://github.com/zer0Kerbal/RustyStarRockets/discussions "Discussions"
-[forum]: https://github.com/zer0Kerbal/RustyStarRockets/discussions "Rusty Star Rockets (RSR)"
+[forum]: https://www.curseforge.com/kerbal/ksp-mods/RustyStarRockets "Rusty Star Rockets (RSR)"
 [issue]: https://github.com/zer0Kerbal/RustyStarRockets/issues "Issues"
 [markt]: https://zer0kerbal.github.io/RustyStarRockets/Marketing "Marketing Slicks"
 [notic]: https://zer0kerbal.github.io/RustyStarRockets/Notices "Notices"
