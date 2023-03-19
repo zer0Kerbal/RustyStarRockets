@@ -9,6 +9,32 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RustyStarRockets)     |
 | spacedock  | (https://spacedock.info/mod/207)                                  |
 | ckan       | RustyStarRockets                                                  |
+rsr-chute-drogue
+rsr-chute-radial
+rsr-coupling-sep-125
+rsr-coupling-sep-250
+rsr-coupling-sep-0625
+rsr-heatshield-125
+rsr-heatshield-250
+rsr-heatshield-375
+rsr-heatshield-0625
+rsr-heatshield-inflatable-250
+rsr-light-belt-125
+rsr-light-belt-250
+rsr-light-bulb
+rsr-light-e
+rsr-light-e-tri
+rsr-light-landing-laser
+rsr-light-spot
+rsr-light-strut
+rsr-airbrake
+rsr-bay-cargo-250-1
+rsr-bay-cargo-250-2
+rsr-chute
+* New
+    * [rsr-klaw-mini.cfg]
+rsr-light-bulb-sm
+rsr-airbrake-mini
 
 ## Version 1.8.99.3-prerelease - `<Rust Koleum: 3rd coat>` edition
 
@@ -24,7 +50,6 @@
     * Added StackInlineLights.cfg v1.0.0.0
 * ten more parts updated
   * Utility
-    * [rsr-klaw.cfg]
     * [rsr-crew-cabin-250.cfg]
     * [rsr-crew-cabin-radial.cfg]
   * Antenna
