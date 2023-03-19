@@ -21,6 +21,75 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | spacedock  | (https://spacedock.info/mod/207)                                  |
 | ckan       | RustyStarRockets                                                  |
 
+## Version 1.8.99.3-prerelease - `<Rust Koleum: 3rd coat>` edition
+
+* Released
+  * 18 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.8.99.3
+
+* Next of several staged updates
+* 22 parts upgraded in this release (+3 new)
+* 62 total parts initially upgraded (+3 new)
+* ~127 yet to upgrade
+* New: three (3) parts added
+  * Small Rusty Klaw
+  * Small Bulb
+  * Mini AIRBRAKE
+* Updated
+  * Chutes
+    * [rsr-chute-drogue]
+    * [rsr-chute-radial]
+    * [rsr-chute]
+  * Coupling
+    * [rsr-coupling-sep-125]
+    * [rsr-coupling-sep-250]
+    * [rsr-coupling-sep-0625]
+  * Heatshields
+    * [rsr-heatshield-125]
+    * [rsr-heatshield-250]
+    * [rsr-heatshield-375]
+    * [rsr-heatshield-0625]
+    * [rsr-heatshield-inflatable-250]
+  * Lights
+    * [rsr-light-belt-125]
+    * [rsr-light-belt-250]
+    * [rsr-light-bulb]
+    * [rsr-light-e]
+    * [rsr-light-e-tri]
+    * [rsr-light-landing-laser]
+    * [rsr-light-spot]
+    * [rsr-light-strut]
+  * Airbrakes
+    * [rsr-airbrake]
+  * Cargobays
+    * [rsr-bay-cargo-250-1]
+    * [rsr-bay-cargo-250-2]
+* Update GhostParts.cfg v2.0.1.0
+* Added
+  * StackInlineLights.cfg v1.0.0.0
+  * RealismOverhaul.cfg v1.0.0.0 (only airbrakes)
+  * CommunityCategoryKit v1.0.0.0 (cck-lights)
+* for more details, read the release notes for 1.8.99.0
+* just doing more of the same
+
+### Status 1.8.99.3
+
+* Issues
+  * closes #77 - Rusty Star Rockets (RSR) 1.8.99.3-prerelease `<Rust Koleum: 3rd coat>` edition
+  * closes #78 - 1.8.99.3 Additional Tasks
+  * updates #11 - Part Asset Updates
+  * updates #14 - [DRAG_CUBE]
+  * updates #15 - Localization - Master
+  * updates #16 - English <us-en.cfg>
+  * updates #33 - Part Localization
+  * updates #62 - Create Thumbs
+  * updates #74 - Model load error
+
+---
+
 ## Version 1.8.99.2-prerelease - `<Rust Koleum: 2nd coat>` edition
 
 * Released
@@ -64,6 +133,13 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ---
 
+## Version 1.8.99.1-prerelease - `<Rust Koleum: 1st coat>` edition
+
+* Released
+  * 06 Nov 2022
+  * for Kerbal Space Program 1.12.4
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
 ### Summary 1.8.99.1
 
 * ten more parts updated
@@ -83,7 +159,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * for more details, read the release notes for 1.8.99.0
 * just doing more of the same
 
-### Status 1.8.99.0
+### Status 1.8.99.1
 
 * Issues
   * closes #66 - Rusty Star Rockets (RSR) 1.8.99.1-prerelease `<Rust Koleum: 1st coat>`
