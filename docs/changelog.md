@@ -24,37 +24,62 @@ CC BY-ND 4.0 by zer0Kerbal -->
 ## Version 1.8.99.3-prerelease - `<Rust Koleum: 3rd coat>` edition
 
 * Released
-  * 05 Mar 2023
+  * 18 Mar 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-* Add
+### Summary 1.8.99.3
+
+* Next of several staged updates
+* 22 parts upgraded in this release (+3 new)
+* 62 total parts initially upgraded (+3 new)
+* ~127 yet to upgrade
+* New: three (3) parts added
   * Small Rusty Klaw
-* Update
-  * GhostParts.cfg v2.0.0.0
-    * Added StackInlineLights.cfg v1.0.0.0
-* ten more parts updated
-  * Utility
-    * [rsr-klaw.cfg]
-    * [rsr-crew-cabin-250.cfg]
-    * [rsr-crew-cabin-radial.cfg]
-  * Antenna
-    * [rsr-antenna-direct-1.cfg]
-    * [rsr-antenna-relay-100.cfg]
-    * [rsr-antenna-relay-x0.cfg]
-    * [rsr-antenna-relay-x1.cfg]
-  * Misc
-    * [rsr-objectX.cfg]
-    * [rsr-strangedebris.cfg]
-    * [rsr-engine-alien.cfg]
+  * Small Bulb
+  * Mini AIRBRAKE
+* Updated
+  * Chutes
+    * [rsr-chute-drogue]
+    * [rsr-chute-radial]
+    * [rsr-chute]
+  * Coupling
+    * [rsr-coupling-sep-125]
+    * [rsr-coupling-sep-250]
+    * [rsr-coupling-sep-0625]
+  * Heatshields
+    * [rsr-heatshield-125]
+    * [rsr-heatshield-250]
+    * [rsr-heatshield-375]
+    * [rsr-heatshield-0625]
+    * [rsr-heatshield-inflatable-250]
+  * Lights
+    * [rsr-light-belt-125]
+    * [rsr-light-belt-250]
+    * [rsr-light-bulb]
+    * [rsr-light-e]
+    * [rsr-light-e-tri]
+    * [rsr-light-landing-laser]
+    * [rsr-light-spot]
+    * [rsr-light-strut]
+  * Airbrakes
+    * [rsr-airbrake]
+  * Cargobays
+    * [rsr-bay-cargo-250-1]
+    * [rsr-bay-cargo-250-2]
+* Update GhostParts.cfg v2.0.1.0
+* Added
+  * StackInlineLights.cfg v1.0.0.0
+  * RealismOverhaul.cfg v1.0.0.0 (only airbrakes)
+  * CommunityCategoryKit v1.0.0.0 (cck-lights)
 * for more details, read the release notes for 1.8.99.0
 * just doing more of the same
 
 ### Status 1.8.99.3
 
 * Issues
-  * closes #72 - Rusty Star Rockets (RSR) 1.8.99.2-prerelease `<Rust Koleum: 2nd coat>` edition
-  * closes #73 - 1.8.99.2 Additional Tasks
+  * closes #77 - Rusty Star Rockets (RSR) 1.8.99.3-prerelease `<Rust Koleum: 3rd coat>` edition
+  * closes #78 - 1.8.99.3 Additional Tasks
   * updates #11 - Part Asset Updates
   * updates #14 - [DRAG_CUBE]
   * updates #15 - Localization - Master
