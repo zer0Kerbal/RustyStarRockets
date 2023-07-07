@@ -99,4 +99,4 @@ Then using a command pod and a docking port, build a new vessel or subassembly o
 [IMG:hero:2i]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-08.jpg "Hero"
 [IMG:hero:1]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HeroLogo_1920x1920.png "Cover"
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
