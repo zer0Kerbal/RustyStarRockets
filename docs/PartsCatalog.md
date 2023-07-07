@@ -168,4 +168,4 @@ Kerbalinthebox
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-hq_icon.png" alt="HQ" width="25%" height="25%" />
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
