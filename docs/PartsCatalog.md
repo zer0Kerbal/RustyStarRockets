@@ -4,34 +4,34 @@ title: Parts Catalog
 description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
 tags: parts,invoice,catalog,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- PartsCatalog.md v1.1.4.1
+<!-- PartsCatalog.md v1.0.5.0
 Rusty Star Rockets (RSR)
-created: 01 Feb 2022
-updated: 01 Oct 2022 -->
+created: 01 Apr 2022
+updated: 07 Jul 2022
 
+TEMPLATE: PartsCatalog.md v1.1.4.3
+created: 01 Feb 2022
+updated: 01 May 2023 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-# Rusty Star Rockets (RSR) [WIP]
+## [Rusty Star Rockets (RSR)][mod] <!-- omit from toc -->
 
 [Home](./index.md)
 
 ## Parts Catalog
 
-(WIP)
-
 This add-on adds one hundred (100) rusty parts
 
-* Table of Contents
-  * [Capsules][#capsules]
-  * [Control][#control]
-  * [Science][#science]
-  * [Electrical][#electrical]
-  * [Thermal][#thermal]
-  * [Structual][#structual]
-  * [Compound][#compound]
-  * [HQ][#hq]
+1. [Parts Catalog](#parts-catalog)
+   1. [Capsules](#capsules)
+   2. [Control](#control)
+2. [Science](#science)
+3. [Electrical](#electrical)
+4. [Thermal](#thermal)
+5. [Structual](#structual)
+6. [Compound](#compound)
+   1. [HQ](#hq)
 
 ---
 
@@ -168,4 +168,7 @@ Kerbalinthebox
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/thumbs/rsr-hq_icon.png" alt="HQ" width="25%" height="25%" />
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/RustyStarRockets "Rusty Star Rockets (RSR)"
