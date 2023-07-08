@@ -4,99 +4,100 @@ title: Marketing Images
 description: camera goes *click-click*
 tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- Marketing.md v1.0.1.2
+<!-- Marketing.md v1.0.5.0
 Rusty Star Rockets (RSR)
-created: 13 Apr 2022
-updated: 20 Oct 2022
+created: 01 Apr 2022
+updated: 07 Jul 2022
 
-based upon work by LisiasT -->
+TEMPLATE: Marketing.md v1.1.0.0
+created: 13 Apr 2022
+updated: 07 Jul 2023
+
+based upon work by Lisias
+
+this file:
+    CC BY-ND 4.0 by zer0Kerbal
+    and used with express permission from zer0Kerbal -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-user-astronaut fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #BADA55" ></i>
 
-# Rusty Star Rockets (RSR) [WIP]
+## [Rusty Star Rockets (RSR)][mod] <!-- omit from toc -->
+
+This part addon contains over one hundred and twenty (120) parts and twenty (20) unique IVA's, all with rusty aesthetics. For Kerbal Space Program.
 
 [Home](./index.md)
 
-  ![RSR Logo][IMG:hero:2a]
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/Marketing/logo.png" alt="Rusty Star Rockets Logo" width="25%" height="25%">
 
-## Marketing Slicks
+## Table of Contents
 
-* Table of Contents
-  * [A](#a)
-  * [B](#b)
-  * [C](#c)
-  * [D](#d)
-  * [E](#e)
-  * [F](#f)
-  * [G](#g)
-  * [H](#h)
-  * [I](#i)
+1. [Table of Contents](#table-of-contents)
+   1. [Hero Logo/Cover](#hero-logocover)
+   2. [B](#b)
+   3. [C](#c)
+   4. [D](#d)
+   5. [E](#e)
+   6. [Jolly Roger Aerospace](#jolly-roger-aerospace)
+   7. [Let There Be Lights](#let-there-be-lights)
+   8. [Base](#base)
+   9. [Boom](#boom)
 
-### A
+### Hero Logo/Cover
 
 [top](#table-of-contents)
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HeroLogo_1920x1920.png" alt="RustyStarRockets Hero" width="50%" height="50%">
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HeroLogo_1920x1920.png" alt="RustyStarRockets Hero" width="50%" height="50%">
 
 ### B
 
-First mine the ore *(after you find it)*
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/Marketing/HERO-01.png" alt="RustyStarRockets (RSR)" width="100%" height="100%">
 
-![Mining Ore][IMG:hero:2b]
-[top](#table-of-contents)
+<small><i>[top](#table-of-contents)</i></small>
 
 ### C
 
-Then refine the ore into metal
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/Marketing/HERO-02.jpg" alt="RustyStarRockets (RSR)" width="100%" height="100%">
 
-![Refining Ore to Metal][IMG:hero:2c]
-[top](#table-of-contents)
+<small><i>[top](#table-of-contents)</i></small>
 
 ### D
 
-Then using the MPL Science lab, print Rocket Parts
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/Marketing/HERO-03.jpg" alt="RustyStarRockets (RSR)" width="100%" height="100%">
 
-![Printing Rocketparts from Metal][IMG:hero:2d]
-[top](#table-of-contents)
+<small><i>[top](#table-of-contents)</i></small>
 
 ### E
 
-Then using a command pod and a docking port, build a new vessel or subassembly or even just a part
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/Marketing/HERO-04.jpg" alt="RustyStarRockets (RSR)" width="100%" height="100%">
 
-![Building Rockets][IMG:hero:2e]
-[top](#table-of-contents)
+<small><i>[top](#table-of-contents)</i></small>
 
-### F
+### Jolly Roger Aerospace
 
-![Finalize build!][IMG:hero:2f]
-[top](#table-of-contents)
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/Marketing/HERO-05.jpg" alt="RustyStarRockets (RSR)" width="100%" height="100%">
 
-### G
+<small><i>[top](#table-of-contents)</i></small>
 
-![Finalize build!][IMG:hero:2g]
-[top](#table-of-contents)
+### Let There Be Lights
 
-### H
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/Marketing/HERO-06.jpg" alt="RustyStarRockets (RSR)" width="100%" height="100%">
 
-![Finalize build!][IMG:hero:2h]
-[top](#table-of-contents)
+<small><i>[top](#table-of-contents)</i></small>
 
-### I
+### Base
 
-![Finalize build!][IMG:hero:2i]
-[top](#table-of-contents)
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/Marketing/HERO-07.jpg" alt="RustyStarRockets (RSR)" width="100%" height="100%">
 
-[IMG:hero:2a]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/logo.png "RSR Logo"
-[IMG:hero:2b]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-01.png "Hero"
-[IMG:hero:2c]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-02.jpg "Hero"
-[IMG:hero:2d]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-03.jpg "Hero"
-[IMG:hero:2e]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-04.jpg "Hero"
-[IMG:hero:2f]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-05.jpg "Hero"
-[IMG:hero:2g]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-06.jpg "Hero"
-[IMG:hero:2h]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-07.jpg "Hero"
-[IMG:hero:2i]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HERO-08.jpg "Hero"
-[IMG:hero:1]: https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/img/HeroLogo_1920x1920.png "Cover"
+<small><i>[top](#table-of-contents)</i></small>
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+### Boom
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/docs/Marketing/HERO-08.jpg" alt="RustyStarRockets (RSR)" width="100%" height="100%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/RustyStarRockets "Rusty Star Rockets (RSR)"
