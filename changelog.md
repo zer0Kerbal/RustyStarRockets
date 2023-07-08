@@ -1,14 +1,60 @@
 ﻿# Changelog  
 
-| modName    | Rusty Star Rockets (RSR)                                          |
+| modName    | Rusty Star Rockets (RSR) by GagaX                                 |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC BY-ND 4.0                                                      |
+| license    | CC BY-ND 4.0+ARR                                                  |
 | author     | GagaX and zer0Kerbal                                              |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/RustyStarRockets)       |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RustyStarRockets)     |
 | spacedock  | (https://spacedock.info/mod/207)                                  |
-| ckan       | RustyStarRockets                                                  |
+| ckan       | RustyStarRockets                                                  |[pages]
+
+## Version 1.8.99.4-prerelease - `<Rust Koleum: 4th coat>` edition
+
+* Released
+  * 07 Jul 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [Rusty Star Shipyards (RSS)](https://www.curseforge.com/kerbal/ksp-mods/RustyStarShipyards)
+
+### Change Summary 1.8.99.4
+
+* Next of several staged updates
+* for more details, read the release notes for 1.8.99.0
+* just doing more of the same
+* 22 parts upgraded in this release (+3 new)
+* 62 total parts initially upgraded (+3 new)
+* ~127 yet to upgrade
+* New: three (3) parts added
+  * Small Rusty Klaw
+  * Small Bulb
+  * Mini AIRBRAKE
+* Updated
+  * Chutes
+  * Coupling
+  * Heatshields
+  * Lights
+  * Airbrakes
+  * Cargobays
+* Update GhostParts.cfg v2.0.1.0
+* Added
+  * StackInlineLights.cfg v1.0.0.0
+  * RealismOverhaul.cfg v1.0.0.0 (only airbrakes)
+  * CommunityCategoryKit v1.0.0.0 (cck-lights)
+
+### Changes 1.8.99.4
+
+#### Assets 1.8.99.4
+
+### Status 1.8.99.4
+
+* Issues
+
+---
 
 ## Version 1.8.99.3-prerelease - `<Rust Koleum: 3rd coat>` edition
 
