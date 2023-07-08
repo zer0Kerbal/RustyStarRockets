@@ -4,19 +4,21 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.8.1
+<!-- ManualInstallation.md v1.0.5.0
 Rusty Star Rockets (RSR)
-created: 01 Oct 2019
-updated: 29 Jul 2022 -->
+created: 01 Apr 2022
+updated: 07 Jul 2022
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
 
-# [Rusty Star Rockets (RSR)][RSR]
+based upon work by Lisias -->
+## [Rusty Star Rockets (RSR)][mod]
 
 [Home](./index.md)
 
-This part addon contains over one hundred parts made of rusty metal.
+This part addon contains over one hundred and twenty (120) parts and twenty (20) unique IVA's, all with rusty aesthetics. For Kerbal Space Program.
 
 ## Installation Instructions
 
@@ -52,25 +54,40 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [RustyStarShipyards]
-    + [RustyStarRockets]
-      + [Compatibility]
+      + [Agencies]
         ...
-      + [Config]
-        ...
-      + [Contracts]
+      + [Flags]
         ...
       + [Localization]
         ...
-      + [Parts]
-        ...
-      * #.#.#.#.htm
-      * Attributions.htm
-      * CC-BY-ND-4.0.txt
-      * changelog.md
-        ManualInstallation.htm
-      * readme.htm
-      * RustyStarRockets.version
-    ...
+      ...
+      + [RustyStarRockets]
+        + [Assets]
+          ...
+        + [Compatibility]
+          ...
+        + [Config]
+          ...
+        + [Contracts]
+          ...
+        + [FX]
+          ...
+        + [Localization]
+          ...
+        + [Parts]
+          ...
+        + [Sounds]
+          ...
+        + [Spaces]
+          ...
+          ManualInstallation.htm
+        * #.#.#.#.htm
+        * Attributions.htm
+        * CC-BY-ND-4.0+ARR.txt
+        * changelog.md
+        * readme.htm
+        * RustyStarRockets.version
+      ...
     * ModuleManager.ConfigCache
   * KSP.log
   ...
@@ -78,7 +95,9 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 ### Dependencies
 
-* [Rusty Star Shipyards (RSS)][RSS]
+* [Rusty Star Shipyards (RSS)](https://www.curseforge.com/kerbal/ksp-mods/RustyStarShipyards)
 
-[RSR]: https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/ "Rusty Star Rockets"
-[RSS]: https://forum.kerbalspaceprogram.com/index.php?/topic/209456-*/ "Rusty Star Shipyards"
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/RustyStarRockets "Rusty Star Rockets (RSR)"
