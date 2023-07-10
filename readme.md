@@ -11,7 +11,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 # [Rusty Star Rockets (RSR)][CURSFG:url]
 
 [![Rusty Star Rockets (RSR)][SHD:mod]][CURSFG:url]  
-[![KSP version][SHD:ksp]][KSP:url] [![License][LIC:shd]][LIC:url]  
+[![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
 This part addon contains over one hundred and twenty (120) parts and twenty (20) unique IVA's, all with rusty aesthetics. For Kerbal Space Program.
@@ -223,7 +223,7 @@ Comment, click, like, share, up-vote, subscribe
 
 <!-- Kerbal Space Program -->
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
-[SHD:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/json/ksp.json "Kerbal Space Program"
+[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RustyStarRockets/master/json/ksp.json "Kerbal Space Program"
 
 <!-- links -->
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/ "GagaX"
