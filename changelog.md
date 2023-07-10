@@ -154,6 +154,7 @@
 * Issues
   * closes #81 - Rusty Star Rockets (RSR) 1.8.99.4-prerelease `<Rust Koleum: 4th coat>` edition
   * closes #82 - 1.8.99.4 Additional Tasks
+
 ---
 
 ## Version 1.8.99.3-prerelease - `<Rust Koleum: 3rd coat>` edition
