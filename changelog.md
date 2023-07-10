@@ -48,7 +48,17 @@
 
 ### Changes 1.8.99.4
 
+#### Parts 1.8.99.4
+
 #### Assets 1.8.99.4
+
+#### Compatibility 1.8.99.4
+
+* Add
+  * [0_TechTree.cfg] v1.0.0.0
+  * [CommunityTechTree.cfg] v1.0.0.0
+
+#### Config 1.8.99.4
 
 ### Status 1.8.99.4
 
