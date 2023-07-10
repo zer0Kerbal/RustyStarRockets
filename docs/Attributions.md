@@ -4,18 +4,20 @@ title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!--
-Attributions.md v1.0.7.1
+<!-- Attributions.md v1.0.5.0
 Rusty Star Rockets (RSR)
-created: 01 Feb 2022
-updated: 03 Jun 2022
--->
+created: 01 Apr 2022
+updated: 07 Jul 2022
 
+TEMPLATE: Attributions.md v1.0.9.0
+created: 01 Feb 2022
+updated: 15 Mar 2023
+
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Rusty Star Rockets (RSR)
+## [Rusty Star Rockets (RSR)][mod]
 
 [Home](./index.md)
 
@@ -24,48 +26,60 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/"><img border="0" alt="GagaX" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/Rusty2_150px.png.1828a17115ddf26e224f4dd2bed4fda7.thumb.png.3b00d9038455e2ae006bca40a6cc0fca.png" width="50" height="50" > GagaX</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Rusty Star Rockets (RSR)"> Rusty Star Rockets!</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/129964-*/"><img border="0" alt="linuxgurugamer" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2017_09/square_800x800.thumb.png.ab7375e7b1dbf21a10e5b8697a63fa5f.png" width="50" height="50" > linuxgurugamer</a> for handing these off to me!</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/"><img alt="GagaX" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/Rusty2_150px.png.1828a17115ddf26e224f4dd2bed4fda7.thumb.png.3b00d9038455e2ae006bca40a6cc0fca.png" width="50px" height="50px" > GagaX</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Rusty Star Rockets (RSR)"> Rusty Star Rockets!</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/129964-*/"><img alt="linuxgurugamer" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2017_09/square_800x800.thumb.png.ab7375e7b1dbf21a10e5b8697a63fa5f.png" width="50px" height="50px" > linuxgurugamer</a> for handing these off to me!</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
+### Reviews
+
+#### <img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px">
+
+>Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+>[![KSP Mods - Rusty Star Rockets](https://img.youtube.com/vi/G_X4xw5P5tw/0.jpg)](https://www.youtube.com/watch?v=G_X4xw5P5tw)
+
 ### Flag(s)
 
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
-</ul>
+* none
 
 ### Agency
 
-<ul>
-  <li><a href="(https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
-</ul>
+* none
 
 ### Contract(s)
 
 * none
 
-### Special Thanks
-
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img border="0" alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
-  <li>Squad, for making such a great game!</li>
-  <li>Everyone else who made modding tutorials.</li>
-</ul>
-
 ### Translations
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
-  <li><small>Additions and corrections welcome!</small></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png" alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png" alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - grazie <a href="https://github.com/MattNot" alt="MattNot">Mattnot</a></li>
+  <li><small><i>Additions and corrections welcome!</i></small></li>
+</ul>
+
+### Patreons
+
+* K
+
+### Special Thanks
+
+<ul>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/"><img alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50px" height="50px" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
+  <li><small>Squad, for making such a great game!</small></li>
+  <li><small>Everyone else who made modding tutorials.</small></li>
 </ul>
 
 ### Art Asset(s)
 
 * Flags
+* Hero Logo/Cover - All Rights Reserved
 
 ### Testing and Support
 
 * none _yet_
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/RustyStarRockets "Rusty Star Rockets (RSR)"
