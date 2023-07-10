@@ -8,7 +8,7 @@
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/RustyStarRockets)       |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RustyStarRockets)     |
 | spacedock  | (https://spacedock.info/mod/207)                                  |
-| ckan       | RustyStarRockets                                                  |[pages]
+| ckan       | RustyStarRockets                                                  |
 
 ## Version 1.8.99.4-prerelease - `<Rust Koleum: 4th coat>` edition
 
@@ -18,52 +18,142 @@
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 * 📌 Pinned
+  * ~83 upgraded and included of almost 200 parts total
   * Dependencies:
     * [Rusty Star Shipyards (RSS)](https://www.curseforge.com/kerbal/ksp-mods/RustyStarShipyards)
+  * This pre-release is the next in a series of updates to this addon. Each update will update some of the parts and patches so that this addon can be updated in a more manageable manner instead of one massive update.
+  * search for `rsr` in editors to local all parts in this pact
+  * <ghostparts.cfg> is provided for testing
 
 ### Change Summary 1.8.99.4
 
 * Next of several staged updates
-* for more details, read the release notes for 1.8.99.0
-* just doing more of the same
-* 22 parts upgraded in this release (+3 new)
-* 62 total parts initially upgraded (+3 new)
-* ~127 yet to upgrade
-* New: three (3) parts added
-  * Small Rusty Klaw
-  * Small Bulb
-  * Mini AIRBRAKE
-* Updated
-  * Chutes
-  * Coupling
-  * Heatshields
-  * Lights
-  * Airbrakes
-  * Cargobays
-* Update GhostParts.cfg v2.0.1.0
+* Parts upgraded in this release
+  * 18: Upgraded and now included
+  * 80: parts initially upgraded and included (+3 new)
+  * ~109: yet to upgrade
+* Updated and now included
+  * Engines
+    * ION
+    * Jet
+    * Rocket
+    * SRB
+* Update [GhostParts.cfg] v1.8.99.4
+  * only parts that have [oldName] will be ghosted
+  * [oldName] will be cleaned from part.cfg
 * Added
-  * StackInlineLights.cfg v1.0.0.0
-  * RealismOverhaul.cfg v1.0.0.0 (only airbrakes)
-  * CommunityCategoryKit v1.0.0.0 (cck-lights)
+  * [0_TechTree.cfg] adds experimentalRocketry if [Community Tech Tree] is not installed
+  * [BoosterSegments.cfg] v1.0.0.0
+  * [CommunityTechTree.cfg]
+  * [GimbalTrim.cfg] v1.0.0.0
+  * [RadonGas.cfg] v1.0.0.0
 
 ### Changes 1.8.99.4
 
+* more of the same
+* for more details, read the release notes for 1.8.99.0-adoption
+
 #### Parts 1.8.99.4
 
+* Update
+  * [rsr-eng-jet-125-maestral.cfg] V1.8.99.4
+  * [rsr-eng-nuc-125-aa.cfg] V1.8.99.4
+  * [rsr-eng-nuc-250-aa.cfg] V1.8.99.4
+  * [rsr-eng-nuc-leg-250.cfg] V1.8.99.4
+  * [rsr-eng-rad-shejoz.cfg] V1.8.99.4
+  * [rsr-eng-vtol-l.cfg] V1.8.99.4
+  * [rsr-eng-vtol-r.cfg] V1.8.99.4
+  * [rsr-srb-125-bubu.cfg] V1.8.99.4
+  * [rsr-srb-125-voozmee.cfg] V1.8.99.4
+  * [rsr-eng-125-falchion.cfg] V1.8.99.4
+  * [rsr-eng-125-goodrax.cfg] V1.8.99.4
+  * [rsr-eng-125-tutnplok.cfg] V1.8.99.4
+  * [rsr-eng-250-longsword.cfg] V1.8.99.4
+  * [rsr-eng-250-mariveex.cfg] V1.8.99.4
+  * [rsr-eng-250-ogard.cfg] V1.8.99.4
+  * [rsr-eng-ion-125-iguana.cfg] V1.8.99.4
+  * [rsr-eng-ion-0625-gecko.cfg] V1.8.99.4
+  * [rsr-eng-jet-125-bura.cfg] V1.8.99.4
+* Update
+  * add ModuleCargoBay
+  * add DRAG_CUBES
+    * [rsr-bay-cargo-250-2.cfg] v1.8.99.4
+    * [rsr-bay-cargo-250-1.cfg] v1.8.99.4
+  * Mini AIRBRAKE
+* updates #14 - [DRAG_CUBE]
+
 #### Assets 1.8.99.4
+
+* Engines
+  * see 1.8.99.0-adoption
+* updates #11 - Part Asset Updates
 
 #### Compatibility 1.8.99.4
 
 * Add
   * [0_TechTree.cfg] v1.0.0.0
+  * [BoosterSegments.cfg] v1.0.0.0
   * [CommunityTechTree.cfg] v1.0.0.0
+  * [GimbalTrim.cfg] v1.0.0.0
+* Update
 
 #### Config 1.8.99.4
+
+* Add
+  * [RadonGas.cfg] v1.0.0.0
+    * replaces RadonGas with XenonGas
+* Update
+  * [RustyStarRockets.cfg] v1.0.1.0
+  * [ghostParts.cfg] v1.8.99.4
+    * only parts that have [oldName] will be ghosted
+* updates #84 - [BUG] Missing RadonGas definition
+
+#### Localization 1.8.99.4
+
+* Correct Strings
+  * [rsr-bay-cargo-250-2.cfg] v1.8.99.4
+  * [rsr-bay-cargo-250-1.cfg] v1.8.99.4
+* Add
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+* Update and additional strings
+  * [en-us.cfg] v1.0.4.0
+* updates #15 - Localization - Master
+* updates #16 - English <us-en.cfg>
+* updates #33 - Part Localization
+
+#### Documentation 1.8.99.4
+
+* Add
+  * [Flags.md] v1.0.0.0
+* Update
+  * [readme.md] v1.8.99.4
+  * [ReleaseLayout.md] v1.8.99.4
+  * [_config.yml] v1.0.5.0
+  * [404.md] v1.0.5.0
+  * [Attributions.md] v1.0.5.0
+  * [Disclaimer.md] v1.0.5.0
+  * [LegalMumboJumbo.md] v1.0.5.0
+  * [Localizations.md] v1.0.5.0
+  * [ManualInstallation.md] v1.0.5.0
+  * [Marketing.md] v1.0.5.0
+  * [Notices.md] v1.0.5.0
+  * [PartsCatalog.md] v1.0.5.0
+  * [Why.md] v1.0.5.0
+
+#### Marketing 1.8.99.4
+
+* Update
+  * HeroLogo/Cover image
+* updates #62 - Create Thumbs
 
 ### Status 1.8.99.4
 
 * Issues
-
+  * closes #81 - Rusty Star Rockets (RSR) 1.8.99.4-prerelease `<Rust Koleum: 4th coat>` edition
+  * closes #82 - 1.8.99.4 Additional Tasks
 ---
 
 ## Version 1.8.99.3-prerelease - `<Rust Koleum: 3rd coat>` edition
