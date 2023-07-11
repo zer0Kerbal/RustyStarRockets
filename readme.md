@@ -92,7 +92,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
 * [Behemoth Aerospace Engineering (BAE)](https://curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineerings)
 * [Biomatic (BIO)](https://curseforge.com/kerbal/ksp-mods/Biomatic)
-* [Deadly Reentry (dre)](https://forum.kerbalspaceprogram.com/index.php?/topic/50296-*/)
+* [DRELite (DREL)](https://www.curseforge.com/kerbal/ksp-mods/drelite) <small><i>Start the game. Watch the firey death.</i></small>
 * [Docking Port Descriptions (DPD)](https://curseforge.com/kerbal/ksp-mods/DockingPortDescriptions)
 * [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
 * [Gimbal Trim (TRIM)](https://curseforge.com/kerbal/ksp-mods/GimbalTrim)
